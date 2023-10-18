@@ -14,3 +14,5 @@ The main.py file was coded in entirely in Python.
 Thanks for taking the time to read this, make sure to like and follow @MarketWandL!
 
 *NOTE: The version here on GitHub is not the exact file that is being run, I did this to conceal the API keys from the public.
+
+*EDIT 10/18/27: Changed settings on the windows task scheduler to help lower the number of missed tweets.
